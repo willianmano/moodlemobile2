@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile",
-  "app_id": "com.moodle.moodlemobile",
+  "name": "meconectimoodlemobile",
+  "app_id": "me.conecti.moodlemobile",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {},
